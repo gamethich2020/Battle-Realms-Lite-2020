@@ -1,4 +1,5 @@
 # Battle Realms Lite 2020
+by Game Thích
 
 ## Update v1.0.0
 Fix code\
